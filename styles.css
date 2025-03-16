@@ -1,0 +1,49 @@
+* {background-color: pink;}
+h1,p {text-align: center;}
+
+p {margin-top:-20px;}
+img{max-width:50%;
+border: 2px solid #ccc;
+height: auto;display: block;
+margin: 0 auto;}
+
+figcaption {text-align: center;}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+h3 {text-align: center;padding-top: -50px;}
+.tribute {font-size: 20px;text-align: center;margin-top: -30px;}
+legend {text-align: center;}
+
+.todosdeps {display:grid;
+ grid-template-columns: repeat(2,1fr);
+ gap: 20px;
+}
+.dep { background-color: pink;
+  border: 1px solid pink;
+  border-radius: 8px;
+ /* padding: 20px;*/
+  text-align: center; position:relative;}
+  
+.dep img {
+  max-width:none;
+  width: 150px;
+height: 150px;
+border-radius: 15%;
+margin-bottom:20px ;}
+
+.dep-depoimento {
+  background-color: white;
+  padding:px;
+  }
+
+.dep p {
+  font-size: 16px;
+  color: #333;
+  background-color: transparent;
+  margin: 0; 
+}
