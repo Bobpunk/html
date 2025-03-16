@@ -1,0 +1,71 @@
+<DOCTYPE html>
+  <html lang="en">
+    <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link href="styles.css" rel="stylesheet">
+    <head><title>Iraene Maria</title></head>
+    <body>
+      <header></header>
+      <main id="main">
+        <h1 id="title"> Iraene Maria</h1>
+        <div class="margin">
+        <p > A rainha dos perdedores!</p></div>
+        <div id="img-div">
+          <img id="image" src="https://i.ibb.co/4gMTr4q0/1742149766293.jpg" alt="mulher linda segurando um urso roubado">
+    <figcaption id="img-caption">Foto tirada após a meliante tentar furtar uma pelucia no Carrefour!</figcaption>
+        </div>
+         
+          <section id="tribute-info">
+            <h3 id="tribute-title">Linha do tempo da Iraene Maria</h3>
+            <ul>
+              <li><strong>1992</strong> - Nasceu em Cabrobro-PE.
+              </li>
+<br>
+              <li><strong>1998</strong> - Aprendeu a falar <s><strong>e não parou mais</strong></s>.
+              </li><br>
+              
+              <li><strong>2010</strong> - Atingiu a maior idade e começou a beber(foi ai que tudo começou a desandar).
+              </li><br>
+              <li><strong>2019</strong> - Conheceu o <strong>Bob</strong> O cara mais lindo,gostoso,atletico,inteligente e modesto da face da terra.
+              </li><br>
+
+              <li><strong>2021</strong> - Casou com o <strong>Bob</strong>.
+              </li><br>
+
+             <fieldset><legend>Depoimento dos filhos!</legend>
+            <div class="todosdeps">
+            
+            <div class="dep">
+            <img src="https://i.ibb.co/zVTLpqpT/1742153364620.jpg
+" alt="gato blue">
+<div class="dep-depoimento"><p> depoimento blue</p></div> </div>
+            <div class="dep">
+            <img src="
+https://i.ibb.co/HDZ6yCN8/1742155111454.jpg" alt="gata nenem">
+<div class="dep-depoimento"><p><i> depoimento nenem</i></p></div></div>
+            <div class="dep">
+            <img src="
+https://i.ibb.co/8g6d93Wm/1742153364625.jpg
+" alt="gato romis">
+
+<div class="dep-depoimento"><p> <i>Onde estou, para onde vou?</i></p></div></div>
+            <div class="dep">
+            <img src="
+https://i.ibb.co/F48PxBP6/1742155111464.jpg
+" alt="gata princesa"> 
+
+<div class="dep-depoimento"><p><i> "Estou com fome"</i></p></div> </div>
+</div>
+            
+             </fieldset>
+              
+              <ul>
+            </section>
+       
+           
+                 <div class="tribute">Se tiver tempo conheça mais sobre a Iraene Maria na sua <a id="tribute-link" href="https://www.instagram.com/iraene8/" target="_blank">Pagina do Instagram</a> .</div>
+             
+      </main>
+      <footer></footer>
+    </body>
+  </html>
